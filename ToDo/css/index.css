@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(65, 231, 203);
+}
+
+header h1 {
+    color: white;
+}
+
+main {
+    text-align: center;
+}
+
+main input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#txt {
+    width: 200px;
+}
+
+#button {
+    width: 100px;
+}
